@@ -1,8 +1,6 @@
-Hi there! I'm Arturo, a software engineer & designer based in London.
+¡Hola! I'm Arturo. I'm a software engineer, manager & designer based in London.
 
-Software is my craft. I help businesses to define and implement their products
-by keeping a holistic approach. I strive for excellence and share my passion,
-ideas and practices with those around me.
+Software is my craft. During my career I have had the opportunity to work with remarkable people building systems at scale and leading technical teams.
 
 <a href="https://github.com/arturoherrero">
   <img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
